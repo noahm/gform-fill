@@ -1,0 +1,19 @@
+{
+  "name": "gform-fill",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "dependencies": {
+    "node-fetch": "^2.0.0",
+    "playwright": "^1.17.1",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.8",
+    "@types/node-fetch": "^2.0.0"
+  }
+}
